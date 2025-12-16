@@ -26,5 +26,5 @@
     });
 
     document.getElementById('backBtn').addEventListener('click', () => {
-      navigateWithFade('Sorry.html');
+      navigateWithFade('index.html');
     });
